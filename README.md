@@ -8,7 +8,7 @@
 # Functionalities:
 - create new post
 - see all the posts
-- delete for each post
+- delete post
 
 # Technologies:
 - Express.js
